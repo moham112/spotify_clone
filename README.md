@@ -1,7 +1,7 @@
 # Spotify Clone
 
 ## Overview
-A modern Spotify Clone built using Flutter, implementing **Clean Architecture** with **MVVM** and **Bloc** for state management. This app provides a seamless music streaming experience with Firebase integration.
+A modern Spotify Clone built using Flutter, implementing **Clean Architecture** with **Bloc** for state management. This app provides a seamless music streaming experience with Firebase integration.
 
 ## Features
 - 🎵 **Stream Music** - Listen to a variety of songs from the store.
@@ -10,7 +10,7 @@ A modern Spotify Clone built using Flutter, implementing **Clean Architecture** 
 - 📂 **Cloud Storage** - Music files are stored and retrieved from Firebase Storage.
 - 📜 **Firestore Database** - Manages user data and song information efficiently.
 - 🎨 **Dark Theme Support** - Enjoy the app in both light and dark modes.
-- 🛠 **Clean Architecture (MVVM + Bloc)** - Ensuring modular, scalable, and maintainable code.
+- 🛠 **Clean Architecture + Bloc** - Ensuring modular, scalable, and maintainable code.
 
 ## Tech Stack
 - **Flutter** - Cross-platform development
@@ -43,4 +43,4 @@ A modern Spotify Clone built using Flutter, implementing **Clean Architecture** 
 Feel free to fork the repository and submit a pull request with your improvements.
 
 ## Contact
-For any queries, contact me at [muhammed.mail.211@gmail.com](mailto:muhammed.mail.211@gmail.com).
+For any queries, contact me at [your-email@example.com](mailto:your-email@example.com).
