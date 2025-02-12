@@ -20,10 +20,10 @@ A modern Spotify Clone built using Flutter, implementing **Clean Architecture** 
 
 ## Screenshots & Mockups
 ## Screenshots & Mockups
-![On Boarding Screen](https://imgur.com/a/ROhe6yu)
-![On Boarding](https://imgur.com/a/RzxIKD1)
-![Home Screen](https://imgur.com/a/zlDWMkx)
-![Player Screen](https://imgur.com/undefined)
+![On Boarding Screen](https://github.com/moham112/spotify_clone/blob/main/UIs/Screenshot_1739307156.png?raw=true)
+![On Boarding](https://github.com/moham112/spotify_clone/blob/main/UIs/Screenshot_1739307191.png?raw=true)
+![Home Screen](https://github.com/moham112/spotify_clone/blob/main/UIs/Screenshot_1739307252.png?raw=true)
+![Player Screen](https://github.com/moham112/spotify_clone/blob/main/UIs/Screenshot_1739307297.png?raw=true)
 
 ## Installation
 1. Clone the repository:
